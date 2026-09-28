@@ -26,7 +26,7 @@ export const team: TeamMember[] = [
       github: 'https://github.com/niyiartz24',
       linkedin: 'https://www.linkedin.com/in/emmanuel-adeniyi-358015291?utm_source=share_via&utm_content=profile&utm_medium=member_android',
     },
-    image:'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto,f_png/cloudinary-tools-uploads/qzqly0tgqlyeleyrqydt',
+    image:'https://www.image2url.com/r2/default/images/1790620712779-8c2b860d-575b-49fc-8c3f-54779883febd.png',
   },
     {
     name: 'Adewunmi Adeniyi',
@@ -35,6 +35,6 @@ export const team: TeamMember[] = [
     social: {
       email: 'adewunmi78@gmail.com',
     },
-    image:'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto,f_png/cloudinary-tools-uploads/osxpnpjw5a5hsosulcqn',
+    image:'https://www.image2url.com/r2/default/images/1790620809109-bc09887f-3a8e-4179-baea-baf5d28b3738.jpg',
   },
 ]

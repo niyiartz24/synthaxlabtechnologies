@@ -4,7 +4,7 @@
  */
 export const contactConfig = {
   email: 'synthaxlab2025@gmail.com',
-  whatsapp: '08081519979', // e.g. "2348000000000" (digits only, international format, no + or spaces)
+  whatsapp: '2348081519979', // e.g. "2348000000000" (digits only, international format, no + or spaces)
 }
 
 export function getWhatsAppLink(message?: string) {
