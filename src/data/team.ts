@@ -26,7 +26,7 @@ export const team: TeamMember[] = [
       github: 'https://github.com/niyiartz24',
       linkedin: 'https://www.linkedin.com/in/emmanuel-adeniyi-358015291?utm_source=share_via&utm_content=profile&utm_medium=member_android',
     },
-    image:'C:\Users\USER\Desktop\synthaxlab-technologies (2)\synthaxlab\file_0000000081c871f48cca970043fb031e.png'
+    image:'..\..\file_0000000081c871f48cca970043fb031e.png',
   },
     {
     name: 'Adewunmi Adeniyi',
@@ -35,6 +35,6 @@ export const team: TeamMember[] = [
     social: {
       email: 'adewunmi78@gmail.com',
     },
-    image:'IMG-20260910-WA0630.jpg',
+    image:'\IMG-20260910-WA0630.jpg',
   },
 ]
